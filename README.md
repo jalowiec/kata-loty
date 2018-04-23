@@ -1,5 +1,5 @@
-# kata-loty
+# kata-booking
 Java project - Airport sevices
 
-[![Build Status](https://travis-ci.org/zcmagda/kata-loty.svg?branch=master)](https://travis-ci.org/zcmagda/kata-loty)
-[![codecov](https://codecov.io/gh/zcmagda/kata-loty/branch/master/graph/badge.svg)](https://codecov.io/gh/zcmagda/kata-loty)
+[![Build Status](https://travis-ci.org/jalowiec/kata-booking.svg?branch=master)](https://travis-ci.org/jalowiec/kata-booking)
+[![codecov](https://codecov.io/gh/jalowiec/kata-booking/branch/master/graph/badge.svg)](https://codecov.io/gh/jalowiec/kata-booking)
